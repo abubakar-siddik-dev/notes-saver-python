@@ -78,4 +78,8 @@ def menu():
 
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     menu()
+=======
+    menu()
+>>>>>>> 1cf3f2f (Initial commit - Notes Saver CLI)
